@@ -1,5 +1,8 @@
 # ChatBot UI
 
+![image](https://user-images.githubusercontent.com/45158487/124382285-400a4080-dce4-11eb-8fcf-ece5b4f700b1.png)
+
+
 ## To get this project in your local system, follow the given steps:
 
 1.  On GitHub, navigate to the [aysha30/ChatBot](https://github.com/aysha30/ChatBot) repository.
