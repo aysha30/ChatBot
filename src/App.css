@@ -4,4 +4,10 @@
   font-family: "DM Sans", sans-serif;
   /* bottom: 50px;
   right: 50px; */
+  /* overflow: hidden; */
+}
+
+.chat_icon {
+  transform: scale(0.7);
+  color: #000;
 }
