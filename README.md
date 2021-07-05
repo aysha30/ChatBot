@@ -29,13 +29,6 @@
 
 9. Press Enter. Your local clone will be created.
 
-    #### `$ git clone https://github.com/YOUR-USERNAME/ChatBot`
-    #### `> Cloning into ``ChatBot``...`
-    #### `> remote: Counting objects: 10, done.`
-    #### `> remote: Compressing objects: 100% (8/8), done.`
-    #### `> remove: Total 10 (delta 1), reused 10 (delta 1)`
-    #### `> Unpacking objects: 100% (10/10), done.`
-
 10. Your local clone is created now. To open the project in you system, first you have to follow the given commands.
 
     #### `cd ChatBot`
